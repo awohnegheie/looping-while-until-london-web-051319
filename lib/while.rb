@@ -3,5 +3,5 @@ def using_while
 
   #your code here
   10.times do
-puts "Wingardium Leviosa" 
+puts "Wingardium Leviosa"
 end
